@@ -1,1 +1,1 @@
-# Alexa-AI
+# Alex-AI
